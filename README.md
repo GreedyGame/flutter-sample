@@ -1,16 +1,11 @@
 # flutter_gg_test
 
-A new Flutter application.
+Flutter Sample app to demonstrate the integration of GreedyGame Android Native SDK.
 
-## Getting Started
+## Integrate
 
-This project is a starting point for a Flutter application.
+To integration this plugin add the following to `pubspec.yaml` dependencies section.
 
-A few resources to get you started if this is your first Flutter project:
+    flutter_greedygame_plugin: ^0.0.23
+    
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
