@@ -6,7 +6,7 @@ Flutter Sample app to demonstrate the integration of GreedyGame Android Native S
 
 To integration this plugin add the following to `pubspec.yaml` dependencies section.
 
-    flutter_greedygame_plugin: ^0.0.23
+    flutter_greedygame_plugin: ^1.0.1
     
 ## Plugin
 Plugin can be found in https://github.com/GreedyGame/flutter-plugin
